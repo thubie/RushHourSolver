@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rush Hour Solver", "WindowsFormsApplication1\Rush Hour Solver.csproj", "{F8660A70-844E-4E03-A785-B14EC3F4ADFB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F8660A70-844E-4E03-A785-B14EC3F4ADFB}.Debug|x86.ActiveCfg = Debug|x86
+		{F8660A70-844E-4E03-A785-B14EC3F4ADFB}.Debug|x86.Build.0 = Debug|x86
+		{F8660A70-844E-4E03-A785-B14EC3F4ADFB}.Release|x86.ActiveCfg = Release|x86
+		{F8660A70-844E-4E03-A785-B14EC3F4ADFB}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
